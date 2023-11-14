@@ -33,11 +33,3 @@ During development, Postman was used to test the API methods (GET, POST, PUT, DE
 ## Note
 
 If another person is running this project, they should replace the server name in the controllers with their server name, replacing "THEVINDU\SQLEXPRESS02". The database name should remain "Debra".
-
-## Contributing
-
-Contributions are welcome! If you'd like to contribute to the project, please follow the guidelines in the [CONTRIBUTING.md](CONTRIBUTING.md) file.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
