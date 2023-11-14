@@ -38,5 +38,5 @@ If another person is running this project, replace the server name in the contro
 
 ## License
 
-This project is licensed under the MIT License. For details, see the [LICENSE](LICENSE.txt) file.
+This project is licensed under the MIT License. For details, see the [LICENSE](LICENSE/LICENSE.txt) file.
 
